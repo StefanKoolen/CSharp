@@ -1,0 +1,28 @@
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\bin\Debug\Phone Cost.exe
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\bin\Debug\Phone Cost.pdb
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.csprojResolveAssemblyReference.cache
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.AboutForm.resources
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Form1.resources
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Properties.Resources.resources
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.csproj.GenerateResource.Cache
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.exe
+A:\Projecten\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.pdb
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.exe
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone Cost.pdb
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\bin\Debug\Phone Cost.exe
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\bin\Debug\Phone Cost.pdb
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\ResolveAssemblyReference.cache
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.AboutForm.resources
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Form1.resources
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Properties.Resources.resources
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\GenerateResource.read.1.tlog
+A:\Projects\Csharp-Repo\Phone Cost\Phone Cost\obj\Debug\GenerateResource.write.1.tlog
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone Cost.exe
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone Cost.pdb
+A:\Projecten\Phone Cost\Phone Cost\bin\Debug\Phone Cost.exe
+A:\Projecten\Phone Cost\Phone Cost\bin\Debug\Phone Cost.pdb
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone Cost.csprojResolveAssemblyReference.cache
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.AboutForm.resources
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Form1.resources
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone_Cost.Properties.Resources.resources
+A:\Projecten\Phone Cost\Phone Cost\obj\Debug\Phone Cost.csproj.GenerateResource.Cache

@@ -1,0 +1,22 @@
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Form1.resources
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Properties.Resources.resources
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
+C:\Users\Mace\Desktop\Screamer\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Form1.resources
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.Properties.Resources.resources
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\Mace\Desktop\Projects\Encrypt\Encrypt\bin\Debug\Encrypt.pdb
+A:\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
+A:\Projects\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
+A:\Projects\Csharp-Repo\Mijn cryptah!\Encrypt\Encrypt\obj\x86\Debug\Encrypt.exe
+A:\Projects\Csharp-Repo\Mijn cryptah!\Encrypt\Encrypt\obj\x86\Debug\Encrypt.pdb
