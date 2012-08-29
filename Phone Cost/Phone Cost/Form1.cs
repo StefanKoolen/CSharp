@@ -37,12 +37,12 @@ namespace Phone_Cost
         private void button2_Click(object sender, EventArgs e)
         {
 
-            int kprijs = Convert.ToInt32(textBox1.Text);
-            int zprijs = Convert.ToInt32(textBox2.Text);
-            int tprijs = Convert.ToInt32(textBox5.Text);
-            int kperiode = Convert.ToInt32(textBox3.Text);
-            int zperiode = Convert.ToInt32(textBox4.Text);
-            int totaal = 0;
+            double kprijs = Convert.ToDouble(textBox1.Text);
+            double zprijs = Convert.ToDouble(textBox2.Text);
+            double tprijs = Convert.ToDouble(textBox5.Text);
+            double kperiode = Convert.ToDouble(textBox3.Text);
+            double zperiode = Convert.ToDouble(textBox4.Text);
+            double totaal = 0;
 
             if (kprijs > 0.9 && zprijs > 0.9)
             {
@@ -50,7 +50,7 @@ namespace Phone_Cost
                 {
 
                     totaal = kprijs * kperiode + zprijs * zperiode + tprijs;
-                    label9.Text = totaal.ToString();                   
+                    label9.Text = totaal.ToString();
                     label9.Visible = true;
                     label10.Visible = true;
                     label12.Visible = true;
@@ -58,6 +58,8 @@ namespace Phone_Cost
                 else MessageBox.Show("Controleer of je de velden goed hebt ingevuld!");
             }
             else MessageBox.Show("Controleer of je de velden goed hebt ingevuld!");
-         }
+        }
+
+
     }
 }
