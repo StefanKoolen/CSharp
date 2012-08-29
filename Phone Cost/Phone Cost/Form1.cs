@@ -31,6 +31,7 @@ namespace Phone_Cost
         {
             label9.Visible = false;
             label10.Visible = false;
+            label12.Visible = false;
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -52,6 +53,7 @@ namespace Phone_Cost
                     label9.Text = totaal.ToString();                   
                     label9.Visible = true;
                     label10.Visible = true;
+                    label12.Visible = true;
                 }
                 else MessageBox.Show("Controleer of je de velden goed hebt ingevuld!");
             }

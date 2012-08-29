@@ -47,6 +47,7 @@
             this.label10 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label12 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -176,11 +177,11 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(237, 210);
+            this.label9.Location = new System.Drawing.Point(315, 209);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(103, 13);
+            this.label9.Size = new System.Drawing.Size(16, 13);
             this.label9.TabIndex = 14;
-            this.label9.Text = "U bent in totaal kwijt";
+            this.label9.Text = "---";
             // 
             // label10
             // 
@@ -208,11 +209,21 @@
             this.textBox5.Size = new System.Drawing.Size(100, 20);
             this.textBox5.TabIndex = 17;
             // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(203, 210);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(115, 13);
+            this.label12.TabIndex = 18;
+            this.label12.Text = "U bent in totaal kwijt: €";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(564, 262);
+            this.Controls.Add(this.label12);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.label10);
@@ -265,6 +276,7 @@
         private System.Windows.Forms.Label label10;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Label label12;
     }
 }
 
