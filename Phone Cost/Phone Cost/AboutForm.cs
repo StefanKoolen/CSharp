@@ -20,5 +20,15 @@ namespace Phone_Cost
         {
             System.Diagnostics.Process.Start("https://www.github.com/stefankoolen");
         }
+
+        private void AboutForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            label4.Text = "3.1.1";
+        }
     }
 }

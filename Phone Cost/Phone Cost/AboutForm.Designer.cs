@@ -86,6 +86,7 @@
             this.label4.Size = new System.Drawing.Size(31, 13);
             this.label4.TabIndex = 1;
             this.label4.Text = "3.1.1";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -109,6 +110,7 @@
             this.Name = "AboutForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "About - Phone Cost";
+            this.Load += new System.EventHandler(this.AboutForm_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
